@@ -1,4 +1,282 @@
 [
-    {"language": "English", "channel": "sp0002@parasandassociates.net"},
-    {"language": "Spanish", "channel": "sp0004@parasandassociates.net"}
+    {
+        "﻿language": "SpanishCHAM",
+        "channel": "333301@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "PortugueseCHAM",
+        "channel": "333325@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "SpanishCCHMC",
+        "channel": "548301@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "ASLCCHMC",
+        "channel": "548302@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "ArabicCCHMC",
+        "channel": "548318@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "All Other LanguagesCCHMC",
+        "channel": "test-siptestlls@sip.languageline.com",
+        "": ""
+    },
+    {
+        "﻿language": "SpanishOVMC",
+        "channel": "3291@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "SpanishHUMC",
+        "channel": "5401@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "SpanishLACU",
+        "channel": "3601@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "SpanishRancho",
+        "channel": "8153@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Spanish",
+        "channel": "424701@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "ASL",
+        "channel": "424702@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Mandarin",
+        "channel": "424704@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Korean",
+        "channel": "424706@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Armenian",
+        "channel": "424714@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Tagalog",
+        "channel": "424711@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Russian",
+        "channel": "424713@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Cantonese",
+        "channel": "424703@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Vietnamese",
+        "channel": "424705@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Arabic",
+        "channel": "424718@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Farsi",
+        "channel": "424715@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Thai",
+        "channel": "424720@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Cambodian",
+        "channel": "424708@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Portuguese",
+        "channel": "424725@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Bengali",
+        "channel": "424724@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Amharic",
+        "channel": "424731@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Bosnian",
+        "channel": "424738@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Cabo Verdean",
+        "channel": "424727@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Croatian",
+        "channel": "424739@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Dari",
+        "channel": "424747@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "French",
+        "channel": "424737@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Haitian Creole",
+        "channel": "424726@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Hindi",
+        "channel": "424716@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Hmong",
+        "channel": "424707@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Karen",
+        "channel": "424746@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Kurdish",
+        "channel": "424733@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Lahu",
+        "channel": "424721@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Lao",
+        "channel": "424709@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Mien",
+        "channel": "424710@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Navajo",
+        "channel": "424734@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Nepali",
+        "channel": "424745@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Oromo",
+        "channel": "424732@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Pashto",
+        "channel": "424736@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Polish",
+        "channel": "424722@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Punjabi",
+        "channel": "424717@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Sango",
+        "channel": "424744@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Serbian",
+        "channel": "424740@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Somali",
+        "channel": "424730@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Swahili",
+        "channel": "424741@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Toishanese",
+        "channel": "424743@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Tongan",
+        "channel": "424712@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Ukrainian",
+        "channel": "424742@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Urdu",
+        "channel": "424735@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Backup ASL",
+        "channel": "424797@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "Scheduled Appt",
+        "channel": "8787@parasandassociates.net",
+        "": ""
+    },
+    {
+        "﻿language": "All Other Languages",
+        "channel": "4247@parasandassociates.net",
+        "": ""
+    }
 ]
