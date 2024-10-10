@@ -1,26 +1,824 @@
 [
     {
-        "﻿access": "Short4247",
-        "languages": "[{\"language\": \"Spanish\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"Nepali\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "Short4247",
+        "languages": [
+            {
+                "language": "Spanish"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     },
     {
-        "﻿access": "4247",
-        "languages": "[{\"language\": \"Spanish\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Tagalog\"},{\"language\": \"Tongan\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Kurdish\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"French\"},{\"language\": \"Bosnian\"},{\"language\": \"Croatian\"},{\"language\": \"Serbian\"},{\"language\": \"Swahili\"},{\"language\": \"Ukrainian\"},{\"language\": \"Toishanese\"},{\"language\": \"Sango\"},{\"language\": \"Nepali\"},{\"language\": \"Karen\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "Standard4247",
+        "languages": [
+            {
+                "language": "Spanish"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Tagalog"
+            },
+            {
+                "language": "Tongan"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Kurdish"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "French"
+            },
+            {
+                "language": "Bosnian"
+            },
+            {
+                "language": "Croatian"
+            },
+            {
+                "language": "Serbian"
+            },
+            {
+                "language": "Swahili"
+            },
+            {
+                "language": "Ukrainian"
+            },
+            {
+                "language": "Toishanese"
+            },
+            {
+                "language": "Sango"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Karen"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     },
     {
-        "﻿access": "HUMC4247",
-        "languages": "[{\"language\": \"SpanishHUMC\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Tagalog\"},{\"language\": \"Tongan\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Kurdish\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"French\"},{\"language\": \"Bosnian\"},{\"language\": \"Croatian\"},{\"language\": \"Serbian\"},{\"language\": \"Swahili\"},{\"language\": \"Ukrainian\"},{\"language\": \"Toishanese\"},{\"language\": \"Sango\"},{\"language\": \"Nepali\"},{\"language\": \"Karen\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "HUMC4247",
+        "languages": [
+            {
+                "language": "SpanishHUMC"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Tagalog"
+            },
+            {
+                "language": "Tongan"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Kurdish"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "French"
+            },
+            {
+                "language": "Bosnian"
+            },
+            {
+                "language": "Croatian"
+            },
+            {
+                "language": "Serbian"
+            },
+            {
+                "language": "Swahili"
+            },
+            {
+                "language": "Ukrainian"
+            },
+            {
+                "language": "Toishanese"
+            },
+            {
+                "language": "Sango"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Karen"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     },
     {
-        "﻿access": "Rancho4247",
-        "languages": "[{\"language\": \"SpanishRancho\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Tagalog\"},{\"language\": \"Tongan\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Kurdish\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"French\"},{\"language\": \"Bosnian\"},{\"language\": \"Croatian\"},{\"language\": \"Serbian\"},{\"language\": \"Swahili\"},{\"language\": \"Ukrainian\"},{\"language\": \"Toishanese\"},{\"language\": \"Sango\"},{\"language\": \"Nepali\"},{\"language\": \"Karen\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "Rancho4247",
+        "languages": [
+            {
+                "language": "SpanishRancho"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Tagalog"
+            },
+            {
+                "language": "Tongan"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Kurdish"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "French"
+            },
+            {
+                "language": "Bosnian"
+            },
+            {
+                "language": "Croatian"
+            },
+            {
+                "language": "Serbian"
+            },
+            {
+                "language": "Swahili"
+            },
+            {
+                "language": "Ukrainian"
+            },
+            {
+                "language": "Toishanese"
+            },
+            {
+                "language": "Sango"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Karen"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     },
     {
-        "﻿access": "OVMC4247",
-        "languages": "[{\"language\": \"SpanishOVMC\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Tagalog\"},{\"language\": \"Tongan\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Kurdish\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"French\"},{\"language\": \"Bosnian\"},{\"language\": \"Croatian\"},{\"language\": \"Serbian\"},{\"language\": \"Swahili\"},{\"language\": \"Ukrainian\"},{\"language\": \"Toishanese\"},{\"language\": \"Sango\"},{\"language\": \"Nepali\"},{\"language\": \"Karen\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "OVMC4247",
+        "languages": [
+            {
+                "language": "SpanishOVMC"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Tagalog"
+            },
+            {
+                "language": "Tongan"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Kurdish"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "French"
+            },
+            {
+                "language": "Bosnian"
+            },
+            {
+                "language": "Croatian"
+            },
+            {
+                "language": "Serbian"
+            },
+            {
+                "language": "Swahili"
+            },
+            {
+                "language": "Ukrainian"
+            },
+            {
+                "language": "Toishanese"
+            },
+            {
+                "language": "Sango"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Karen"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     },
     {
-        "﻿access": "LACU4247",
-        "languages": "[{\"language\": \"SpanishLACU\"},{\"language\": \"ASL\"},{\"language\": \"Cantonese\"},{\"language\": \"Mandarin\"},{\"language\": \"Vietnamese\"},{\"language\": \"Korean\"},{\"language\": \"Hmong\"},{\"language\": \"Cambodian\"},{\"language\": \"Lao\"},{\"language\": \"Mien\"},{\"language\": \"Tagalog\"},{\"language\": \"Tongan\"},{\"language\": \"Russian\"},{\"language\": \"Armenian\"},{\"language\": \"Farsi\"},{\"language\": \"Hindi\"},{\"language\": \"Punjabi\"},{\"language\": \"Arabic\"},{\"language\": \"Thai\"},{\"language\": \"Lahu\"},{\"language\": \"Polish\"},{\"language\": \"Bengali\"},{\"language\": \"Portuguese\"},{\"language\": \"Haitian Creole\"},{\"language\": \"Cabo Verdean\"},{\"language\": \"Somali\"},{\"language\": \"Amharic\"},{\"language\": \"Oromo\"},{\"language\": \"Kurdish\"},{\"language\": \"Navajo\"},{\"language\": \"Urdu\"},{\"language\": \"Pashto\"},{\"language\": \"French\"},{\"language\": \"Bosnian\"},{\"language\": \"Croatian\"},{\"language\": \"Serbian\"},{\"language\": \"Swahili\"},{\"language\": \"Ukrainian\"},{\"language\": \"Toishanese\"},{\"language\": \"Sango\"},{\"language\": \"Nepali\"},{\"language\": \"Karen\"},{\"language\": \"Dari\"},{\"language\": \"Backup ASL\"},{\"language\": \"Scheduled Appt\"},{\"language\": \"All Other Languages\"}]"
+        "code": "LACU4247",
+        "languages": [
+            {
+                "language": "SpanishLACU"
+            },
+            {
+                "language": "ASL"
+            },
+            {
+                "language": "Cantonese"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Vietnamese"
+            },
+            {
+                "language": "Korean"
+            },
+            {
+                "language": "Hmong"
+            },
+            {
+                "language": "Cambodian"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Tagalog"
+            },
+            {
+                "language": "Tongan"
+            },
+            {
+                "language": "Russian"
+            },
+            {
+                "language": "Armenian"
+            },
+            {
+                "language": "Farsi"
+            },
+            {
+                "language": "Hindi"
+            },
+            {
+                "language": "Punjabi"
+            },
+            {
+                "language": "Arabic"
+            },
+            {
+                "language": "Thai"
+            },
+            {
+                "language": "Lahu"
+            },
+            {
+                "language": "Polish"
+            },
+            {
+                "language": "Bengali"
+            },
+            {
+                "language": "Portuguese"
+            },
+            {
+                "language": "Haitian Creole"
+            },
+            {
+                "language": "Cabo Verdean"
+            },
+            {
+                "language": "Somali"
+            },
+            {
+                "language": "Amharic"
+            },
+            {
+                "language": "Oromo"
+            },
+            {
+                "language": "Kurdish"
+            },
+            {
+                "language": "Navajo"
+            },
+            {
+                "language": "Urdu"
+            },
+            {
+                "language": "Pashto"
+            },
+            {
+                "language": "French"
+            },
+            {
+                "language": "Bosnian"
+            },
+            {
+                "language": "Croatian"
+            },
+            {
+                "language": "Serbian"
+            },
+            {
+                "language": "Swahili"
+            },
+            {
+                "language": "Ukrainian"
+            },
+            {
+                "language": "Toishanese"
+            },
+            {
+                "language": "Sango"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Karen"
+            },
+            {
+                "language": "Dari"
+            },
+            {
+                "language": "Backup ASL"
+            },
+            {
+                "language": "Scheduled Appt"
+            },
+            {
+                "language": "All Other Languages"
+            }
+        ]
     }
 ]
