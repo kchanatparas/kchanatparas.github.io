@@ -36,6 +36,9 @@
                 "language": "Farsi"
             },
             {
+                "language": "Haitian Creole"
+            }, 
+            {
                 "language": "Hindi"
             },
             {
@@ -45,8 +48,11 @@
                 "language": "Korean"
             },
             {
-                "language": "Lao"
+                "language": "Lahu"
             },
+            {
+                "language": "Lao"
+            }, 
             {
                 "language": "Mandarin"
             },
@@ -54,16 +60,16 @@
                 "language": "Mien"
             },
             {
+                "language": "Navajo"
+            },
+            {
                 "language": "Nepali"
-            },
+            },       
+            {   
+                "language": "Oromo"
+            }, 
             {
-                "language": "Punjabi"
-            },
-            {
-                "language": "Thai"
-            },
-            {
-                "language": "Lahu"
+                "language": "Pashto"
             },
             {
                 "language": "Polish"
@@ -71,9 +77,9 @@
             {
                 "language": "Portuguese"
             },
-            {
-                "language": "Haitian Creole"
-            },       
+            {     
+                "language": "Punjabi"
+            },      
             {
                 "language": "Russian"
             },
@@ -81,16 +87,10 @@
                 "language": "Somali"
             },
             {
-                "language": "Oromo"
-            },
-            {
-                "language": "Navajo"
+                "language": "Thai"
             },
             {
                 "language": "Urdu"
-            },
-            {
-                "language": "Pashto"
             },
             {
                 "language": "Vietnamese"
