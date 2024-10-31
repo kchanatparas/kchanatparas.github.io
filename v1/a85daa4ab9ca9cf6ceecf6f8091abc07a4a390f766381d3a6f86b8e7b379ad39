@@ -9,34 +9,28 @@
                 "language": "ASL"
             },
             {
-                "language": "Cantonese"
+                "language": "Amharic"
             },
             {
-                "language": "Mandarin"
+                "language": "Arabic"
             },
             {
-                "language": "Vietnamese"
+                "language": "Armenian"
             },
             {
-                "language": "Korean"
+                "language": "Bengali"
             },
             {
-                "language": "Hmong"
-            },
+                "language": "Cabo Verdean"
+            },    
             {
                 "language": "Cambodian"
             },
             {
-                "language": "Lao"
+                "language": "Cantonese"
             },
             {
-                "language": "Mien"
-            },
-            {
-                "language": "Russian"
-            },
-            {
-                "language": "Armenian"
+                "language": "Dari"
             },
             {
                 "language": "Farsi"
@@ -45,10 +39,25 @@
                 "language": "Hindi"
             },
             {
-                "language": "Punjabi"
+                "language": "Hmong"
             },
             {
-                "language": "Arabic"
+                "language": "Korean"
+            },
+            {
+                "language": "Lao"
+            },
+            {
+                "language": "Mandarin"
+            },
+            {
+                "language": "Mien"
+            },
+            {
+                "language": "Nepali"
+            },
+            {
+                "language": "Punjabi"
             },
             {
                 "language": "Thai"
@@ -60,22 +69,16 @@
                 "language": "Polish"
             },
             {
-                "language": "Bengali"
-            },
-            {
                 "language": "Portuguese"
             },
             {
                 "language": "Haitian Creole"
-            },
+            },       
             {
-                "language": "Cabo Verdean"
+                "language": "Russian"
             },
             {
                 "language": "Somali"
-            },
-            {
-                "language": "Amharic"
             },
             {
                 "language": "Oromo"
@@ -90,10 +93,7 @@
                 "language": "Pashto"
             },
             {
-                "language": "Nepali"
-            },
-            {
-                "language": "Dari"
+                "language": "Vietnamese"
             },
             {
                 "language": "Backup ASL"
